@@ -5,6 +5,8 @@ top_img: /img/site-bg.svg
 comments: false
 ---
 
+<link rel="stylesheet" href="/css/tools-cards.css?v=20260608-cards">
+
 <div class="tools-page">
 <section class="tools-grid" aria-label="网页工具列表">
 <a class="tools-card tools-card-blue" href="https://gudong2003.github.io/BA_logo/" target="_blank" rel="noopener noreferrer">
