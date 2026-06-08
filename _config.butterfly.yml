@@ -216,7 +216,7 @@ display_mode: light
 inject:
   head:
     - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
-    - <link rel="stylesheet" href="/css/custom.css">
+    - <link rel="stylesheet" href="/css/custom.css?v=20260608-tools-card">
     - <link rel="stylesheet" href="/css/shooting_stars.css">
   bottom:
     - <script src="/js/site-copy.js"></script>
