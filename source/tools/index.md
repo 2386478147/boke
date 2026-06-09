@@ -5,7 +5,7 @@ top_img: /img/site-bg.svg
 comments: false
 ---
 
-<link rel="stylesheet" href="/css/tools-cards.css?v=20260608-stacked-dark">
+<link rel="stylesheet" href="/css/tools-cards.css?v=20260608-icon-fix">
 
 <div class="tools-page">
 <section class="tools-grid" aria-label="网页工具列表">
