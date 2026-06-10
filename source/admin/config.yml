@@ -1,15 +1,15 @@
 locale: zh_Hans
-site_url: https://gudong226.linuxdo.space
-display_url: https://gudong226.linuxdo.space
+site_url: https://blog.mikleaf.com
+display_url: https://blog.mikleaf.com
 logo_url: /img/favicon.svg
 
 backend:
   name: github
-  repo: GuDong2003/boke
+  repo: 2386478147/boke
   branch: main
-  base_url: https://gudong226.linuxdo.space
+  base_url: https://blog.mikleaf.com
   auth_endpoint: /api/auth
-  site_domain: gudong226.linuxdo.space
+  site_domain: blog.mikleaf.com
 
 publish_mode: simple
 media_folder: source/img/uploads
