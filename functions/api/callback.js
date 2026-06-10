@@ -50,7 +50,7 @@ export async function onRequest(context) {
   const { request, env } = context;
   const clientId = env.GITHUB_CLIENT_ID;
   const clientSecret = env.GITHUB_CLIENT_SECRET;
-  const allowedLogin = 'GuDong2003';
+  const allowedLogin = '2386478147';
 
   if (!clientId || !clientSecret) {
     return new Response('Missing GitHub OAuth environment variables', {
